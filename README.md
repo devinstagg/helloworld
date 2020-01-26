@@ -1,2 +1,4 @@
 # helloworld
-My first repo
+
+## desription
+This is my first repo using source control through git
